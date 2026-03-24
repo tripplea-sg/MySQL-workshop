@@ -8,12 +8,9 @@ You can clone or fork the repository to follow along, explore the content, and r
 
 Agenda
 ------
-Test Drive 1	  Navigating the MySQL Engine </br>
-Test Drive 2	  Backing up data 
-Test Drive 3	  Solving business problems with SQL
-Test Drive 4	  Working with JSON documents
-Test Drive 5	  Monitoring your database engine
-Test Drive 6	  Building highly available database cluster
+Lab-1    MySQL Backup Recovery and Cloning
+Lab-2    MySQL Replication and Replicasets
+Lab-3    MySQL InnoDB Cluster
 
 
 Author
